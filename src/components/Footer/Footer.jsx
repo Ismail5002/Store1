@@ -15,9 +15,9 @@ const Footer = () => (
     </div>
 
     <div className={styles.rights}>
-      Developed by{" "}
-      <a href="https://youtube.com/Tomkovich" target="_blank" rel="noreferrer">
-        Tomkovich
+      Developed by
+      <a href="#" target="_blank" rel="noreferrer">
+        Ismail
       </a>
     </div>
 

@@ -73,7 +73,7 @@ const Header = () => {
           </div>
 
           {searchValue && (
-            <div className={styles.box}>
+            <div className={styles.box}>   
               {isLoading
                 ? "Loading"
                 : !data.length
