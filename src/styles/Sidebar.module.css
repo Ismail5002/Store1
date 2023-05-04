@@ -1,7 +1,7 @@
 .sidebar {
   width: 304px;
   padding: 24px;
-  height: 423px;
+  height: 100%;
   display: flex;
   flex-direction: column;
 }
@@ -35,6 +35,7 @@
 
 .footer {
   margin-top: auto;
+  padding: 20px 0 0 0;
   display: flex;
   justify-content: space-between;
 }
